@@ -1,0 +1,32 @@
+a {
+position: fixed;
+width: 100px;
+height: 100px;
+bottom: 0px;
+right: 0px;
+border: 3px solid blue;
+background-color: burlywood;
+color: fuchsia;
+text-align: center;
+}
+
+body {
+
+    background-color: aquamarine;
+}
+
+img {
+
+    position: relative;
+    width: 200px;
+    height: 200px;
+    top: 800px;
+    left: 500px;
+
+}
+
+p {
+    position: relative;
+    top:-200px
+}
+
